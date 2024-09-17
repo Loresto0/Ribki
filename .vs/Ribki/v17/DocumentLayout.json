@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jjjj\\source\\repos\\Ribki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83943D0F-CB3D-427D-BA29-8DA945437E8A}|Ribki\\Ribki.csproj|c:\\users\\jjjj\\source\\repos\\ribki\\ribki\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83943D0F-CB3D-427D-BA29-8DA945437E8A}|Ribki\\Ribki.csproj|solutionrelative:ribki\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83943D0F-CB3D-427D-BA29-8DA945437E8A}|Ribki\\Ribki.csproj|c:\\users\\jjjj\\source\\repos\\ribki\\ribki\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{83943D0F-CB3D-427D-BA29-8DA945437E8A}|Ribki\\Ribki.csproj|solutionrelative:ribki\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83943D0F-CB3D-427D-BA29-8DA945437E8A}|Ribki\\Ribki.csproj|c:\\users\\jjjj\\source\\repos\\ribki\\ribki\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83943D0F-CB3D-427D-BA29-8DA945437E8A}|Ribki\\Ribki.csproj|solutionrelative:ribki\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\jjjj\\source\\repos\\Ribki\\Ribki\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Ribki\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\jjjj\\source\\repos\\Ribki\\Ribki\\MainWindow.axaml",
+              "RelativeToolTip": "Ribki\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-17T18:25:38.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\jjjj\\source\\repos\\Ribki\\Ribki\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Ribki\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\jjjj\\source\\repos\\Ribki\\Ribki\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Ribki\\MainWindow.axaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:25:36.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d4062a2b-5b61-4752-a3bf-17e2f8ad77cb",
+        "Display": 0,
+        "X": 828,
+        "Y": 227,
+        "Width": 1578,
+        "Height": 1029,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\jjjj\\source\\repos\\Ribki\\Ribki\\People.cs",
+              "RelativeDocumentMoniker": "Ribki\\People.cs",
+              "ToolTip": "C:\\Users\\jjjj\\source\\repos\\Ribki\\Ribki\\People.cs",
+              "RelativeToolTip": "Ribki\\People.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:26:03.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

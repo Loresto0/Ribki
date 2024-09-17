@@ -1,0 +1,45 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1920" d:DesignHeight="1080"
+        x:Class="Ribki.MainWindow"
+		x:CompileBindings="False"
+		Background="Gray"
+        Title="Окно рыбок">
+
+	<Grid ColumnDefinitions="*,*,*,*,*"
+		  RowDefinitions="*,*,*,*,*">
+
+		<TextBox Grid.Column="1"
+				 VerticalAlignment="Center" Name="SearchBox">
+		</TextBox>
+
+		<ComboBox Grid.Column="3"
+				  HorizontalAlignment="Stretch"
+				 VerticalAlignment="Center"
+				  Name="SortBox">
+			<ComboBoxItem>Все данные</ComboBoxItem>
+			<ComboBoxItem>Мужчины</ComboBoxItem>
+			<ComboBoxItem>Женщины</ComboBoxItem>
+		</ComboBox>
+		
+		<ListBox Name="Peopl" Grid.Row="2"
+				 Grid.RowSpan="3"
+				 Grid.Column="1"
+				 Grid.ColumnSpan="3">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<Grid ColumnDefinitions="*,*,*,*,*,*">
+						<TextBlock Grid.Column="0" Text="{Binding id}"></TextBlock>
+						<TextBlock Grid.Column="1" Text="{Binding name}"></TextBlock>
+						<TextBlock Grid.Column="2" Text="{Binding age}"></TextBlock>
+						<TextBlock Grid.Column="3" Text="{Binding birthday}"></TextBlock>
+						<TextBlock Grid.Column="4" Text="{Binding bipol}"></TextBlock>
+						<TextBlock Grid.Column="5" Text="{Binding gender}"></TextBlock>
+					</Grid>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</Grid>
+</Window>
